@@ -1,6 +1,9 @@
-# COMPSCI 215 Study Guide
+---
+title: Mid Sem Study Guide
+description: Ulrich's study guide for the Mid Sem test
+---
 
-This page has all of the exammable topics that will be assessed in the exam.
+**This page contains the things you need to learn for the Mid Sem Test**
 
 In order to do well in the mid-semester test, you need to be able to:
 
