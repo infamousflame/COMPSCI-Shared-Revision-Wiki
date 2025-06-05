@@ -6,19 +6,20 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'UOA COMPSCI WIKI',
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/infamousflame/COMPSCI-Shared-Revision-Wiki' }],
 			sidebar: [
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+					label: 'Home',
+					slug: 'land_page'
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'COMPSCI210',
+					autogenerate: { directory: 'compsci210' },
+				},
+				{
+					label: 'COMPSCI215',
+					autogenerate: { directory: 'compsci215' },
 				},
 			],
 		}),
