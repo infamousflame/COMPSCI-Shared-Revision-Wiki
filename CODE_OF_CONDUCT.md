@@ -21,7 +21,11 @@ To do this, everyone should be able to participate regardless of:
 * Political or religious beliefs
 * Gender or sexuality
 
+## Scope
+
+This code of conduct applies to anyone contributing to, promoting or otherwise representing the project. All standards in it must be applied to any project-related communications and any wiki content created.
+
 ## Enforcement
 
-We have several options
+We have several options to enforce this code of conduct, including declining the pull request or preventing you from contributing in the future. These decisions will be made on a case-by-case basis, and will not necessarily seem deterministic.
 
