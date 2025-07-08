@@ -21,6 +21,4 @@ diffie-hellman questions.
 integers.
 * Extended Euclidean algorithm - helpful to quickly compute modular inverses.
 
-## Exam-Specific
-
-These algorithms are not as common, and are specific to the types of questions you might get on the exam.
+If you can get good at doing things like this quickly, then you should have no problem going into the exam.
