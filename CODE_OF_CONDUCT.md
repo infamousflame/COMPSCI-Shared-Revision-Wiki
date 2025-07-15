@@ -11,6 +11,8 @@ When contributing, you should:
 * Focus on what is best for the wiki
 * Show empathy towards other contributors
 
+Note that this list is not exhaustive.
+
 ## Inclusivity
 
 We wish to foster an environment in which everyone is allowed to participate, provided they follow the rules.
@@ -21,7 +23,7 @@ To do this, the following should never be a factor in allowing or disallowing so
 * Political or religious beliefs
 * Gender or sexuality (or other aspects of sexual identity)
 
-You get the idea.
+Note that this list is not exhaustive.
 
 ## Scope
 

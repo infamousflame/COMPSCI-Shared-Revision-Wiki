@@ -1,12 +1,12 @@
 # CONTRIBUTING
 
-When contributing to this repopsitory, please first discuss the changes with us through issues before you submit your pull request.
+When contributing to this repository, please first discuss the changes with us through issues before you submit your pull request.
 
 ## Pull Requests
 
 Given that this is a markdown wiki, there shouldn't be any extra dependencies. Consult @infamousflame or @Super-Fusiom to add dependencies.
 
-After ensuring your pull request meets the code of conduct standard, you can submit it to be reviewied, and if accepted, we will merge it. Simple as that!
+After ensuring your pull request meets the code of conduct standard, you can submit it to be reviewed, and if accepted, we will merge it. Simple as that!
 ## Code of Conduct
 
 We want to foster an open, welcoming and inclusive environment for everyone. As such, you should follow the code of conduct at all times.
@@ -28,4 +28,4 @@ That's fine too - especially if you're in the middle of exams or something. Ther
 
 ## Legal Notice
 
-By consitributing contnet, you must agree that you have the legal right to contribute the content (most likely because you created it or used it under license). You must also agree that your contribution may be distributed along with the rest of the probect according to the terms of this repository's license.
+By contributing content, you must agree that you have the legal right to contribute the content (most likely because you created it or used it under license). You must also agree that your contribution may be distributed along with the rest of the project according to the terms of this repository's license.
